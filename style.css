@@ -1,4 +1,127 @@
-html, body {
-  height: 100%;
-  width: 100%;
+
+body{
+  background-repeat: no-repeat;
+  background-image: url("saojanu.png");
+  background-size: 100%;
+  background-attachment: scroll;
+  background-color: #171616;
+}
+h1{
+  position: absolute;
+width: 468px;
+height: 125px;
+left: 120px;
+top: 350px;
+
+font-family: 'Amatic SC';
+font-style: normal;
+font-weight: 700;
+font-size: 80px;
+line-height: 101px;
+text-align: center;
+color: white;
+}
+#eu:hover{
+  font-size: 120px;
+}
+#textoeu{
+  position: absolute;
+width: 476px;
+height: 176px;
+left: 120px;
+top: 500px;
+
+font-family: 'Cutive Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.05em;
+color: white;
+} 
+#dina{
+  position: absolute;
+left: 190px;
+top: 685px;
+}
+#mus{
+  position: absolute;
+width: 343px;
+height: 92px;
+left: 41%;
+top: 875px;
+}
+#gustavo{
+ position: absolute;
+left: 43%;
+top: 410px;
+}
+#github{
+  position: absolute;
+width: 100px;
+height: 100px; 
+left: 888px;
+top: 950px;
+}
+#email{
+  position: absolute;
+width: 80px;
+height: 80px;
+left: 792px;
+top: 951px;
+}
+#instagram{
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  left: 982px;
+  top: 950px;
+}
+h2{
+  position: absolute;
+width: 650px;
+height: 125px;
+left: 1200px;
+top: 350px;
+  
+font-family: 'Amatic SC';
+font-style: normal;
+font-weight: 700;
+font-size: 80px;
+line-height: 101px;
+text-align: center;
+letter-spacing: -0.05em;
+color: white;
+}
+#planos:hover{
+  font-size: 95px;
+}
+#textoplanos{
+  position: absolute;
+width: 495px;
+height: 132px;
+left: 1275px;
+top: 515px;
+
+font-family: 'Cutive Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.05em;
+color: white;
+}
+#mapa{
+position: absolute;
+width: 350px;
+height: 327px;
+left: 1355px;
+top: 689px;
+  
 }
